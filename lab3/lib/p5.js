@@ -86157,7 +86157,7 @@
  * </div>
  */
         /**
- * @method size
+ * @method ball_size
  * @param  {Number|Constant} [w]   width of the element, either AUTO, or a number.
  * @param  {Number|Constant} [h] height of the element, either AUTO, or a number.
  * @chainable
@@ -88275,7 +88275,7 @@
             /**
      * The number of bytes in the file.
      *
-     * @property size
+     * @property ball_size
      *
      * @example
      * <div>
