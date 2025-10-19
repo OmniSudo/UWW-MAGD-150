@@ -11,5 +11,5 @@
   - Make a bouncing ball using p5.js
 - [x] Assignment 5
   - Make a creation using mouse functions using p5.js
-- [ ] Assignment 6
+- [x] Assignment 6
   - Make a Halloween-themed creation using p5.js
