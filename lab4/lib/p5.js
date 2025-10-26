@@ -85370,7 +85370,7 @@
  * If no argument is passed, as in `myElement.center()` the element is aligned
  * both vertically and horizontally.
  *
- * @method center
+ * @method letter
  * @param  {String} [align] passing 'vertical', 'horizontal' aligns element accordingly
  * @chainable
  *
