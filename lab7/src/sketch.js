@@ -6,11 +6,17 @@ function setup() {
     // put setup code here
     createCanvas(500, 500)
 
-    words.push("lorem");
-    words.push("ipsum");
-    words.push("dolor");
-    words.push("sit");
-    words.push("amet");
+    for (let i = 0; i < 5; i++) {
+        words.push(char(random(97,123)));
+    }
+
+    console.log(words)
+
+    for (let i = 0; i < 5; i++) {
+        words2.push(char(random(97,123)));
+    }
+
+    console.log(words2)
 
     background(0);
 }
