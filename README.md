@@ -13,3 +13,7 @@
   - Make a creation using mouse functions using p5.js
 - [x] Assignment 6
   - Make a Halloween-themed creation using p5.js
+- [x] Assignment 7
+  - Populate arrays using p5.js
+- [x] Assignment 6
+  - Make a Holiday-themed creation using p5.js
