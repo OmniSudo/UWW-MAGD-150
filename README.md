@@ -15,5 +15,7 @@
   - Make a Halloween-themed creation using p5.js
 - [x] Assignment 7
   - Populate arrays using p5.js
-- [x] Assignment 6
+- [x] Assignment 8
   - Make a Holiday-themed creation using p5.js
+- [x] Assignment 10
+  - Make a proof-of-concept using p5.js and a p5 library (p5.touchgui)
