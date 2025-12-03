@@ -19,6 +19,8 @@ function setup() {
 function draw() {
     clear();
 
+
+
     positions.push([mouseX,mouseY]);
 
     scale(0.25,0.25)

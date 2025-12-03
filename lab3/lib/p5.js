@@ -113827,8 +113827,8 @@
     * <a href="https://opentype.js.org/" target="_blank">opentype.js</a>
     * font object.
     *
-    * @property font
-    * @name font
+    * @property rs_font
+    * @name rs_font
     */
             this.font = undefined;
           }          /**
